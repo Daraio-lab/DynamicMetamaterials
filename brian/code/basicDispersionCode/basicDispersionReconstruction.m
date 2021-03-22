@@ -1,7 +1,7 @@
 clear
 
 %% Import data
-filePath = '';
+filePath = 'DATA/';
 
 freqRange = 1:35;
 nParticle = 2:11;
