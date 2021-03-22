@@ -1,7 +1,6 @@
 clear
 
 %% Import data
-% filePath = '/Volumes/BKIM/DATA3/';
 filePath = '';
 
 freqRange = 1:35;
